@@ -5,12 +5,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CelebvidyLLC/object-to-query-string.git"
+    "url": "git+https://github.com/faceyspacey/object-to-query-string.git"
   },
   "author": "James Gillmore <james@faceyspacey.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CelebvidyLLC/object-to-query-string/issues"
+    "url": "https://github.com/faceyspacey/object-to-query-string/issues"
   },
-  "homepage": "https://github.com/CelebvidyLLC/object-to-query-string#readme"
+  "homepage": "https://github.com/faceyspacey/object-to-query-string#readme"
 }
