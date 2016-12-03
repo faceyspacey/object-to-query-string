@@ -1,0 +1,16 @@
+{
+  "name": "object-to-query-string",
+  "version": "1.0.0",
+  "description": "simple recursive object to query string script",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CelebvidyLLC/object-to-query-string.git"
+  },
+  "author": "James Gillmore <james@faceyspacey.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CelebvidyLLC/object-to-query-string/issues"
+  },
+  "homepage": "https://github.com/CelebvidyLLC/object-to-query-string#readme"
+}
